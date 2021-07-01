@@ -1,4 +1,4 @@
 # project6-n
-Vue.js
-ejs
+Vue.js/
+ejs/
 node.js/express.js
